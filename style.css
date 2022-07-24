@@ -84,7 +84,7 @@ img {
 /* HOME
 -----------------------*/
 #home {
-    background-image: url(../images/main-bg.jpg),linear-gradient(#c9ffbf, #ffafbd);
+    background-image: url(https://github.com/ak-no-lis/wcb-cafe/blob/main/main-bg.jpg?raw=true),linear-gradient(#c9ffbf, #ffafbd);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
